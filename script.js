@@ -1,3 +1,4 @@
+// Homepage Button to GitHub Page
 const btn = document.getElementById("homepagebutton");
 btn.addEventListener("click", () => {
     console.log("Page redirect to GitHub GeoJSON code");
